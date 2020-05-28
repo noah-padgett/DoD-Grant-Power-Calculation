@@ -8,4 +8,8 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+Welcome to our research website for our DoD grant proposal.
+
+The results of the power calculation are:
+
+*[Power Calculation](power_calc.html)
